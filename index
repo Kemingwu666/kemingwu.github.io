@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Keming Wu 吴科铭</title>
+  <style>
+    body { max-width: 760px; margin: 40px auto; padding: 0 16px; font: 16px/1.7 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; color: #111; }
+    h1 { margin-bottom: 6px; }
+    .muted { color: #666; margin-top: 0; }
+    h2 { margin-top: 28px; border-bottom: 1px solid #eee; padding-bottom: 6px; }
+    a { text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    ul { padding-left: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Keming Wu</h1>
+  <p class="muted">MA Student in Philosophy, Texas Tech University</p>
+
+  <h2>About</h2>
+  <p>
+    I work on ethics.
+  </p>
+
+  <h2>Research Interests</h2>
+  <ul>
+    <li>Normative Ethics</li>
+  </ul>
+
+  <h2>Work in Progress</h2>
+  <ul>
+    <li>Belief
+  </ul>
+
+  <h2>Teaching</h2>
+  <ul>
+    <li>Introduction to Ethics (TA)</li>
+  </ul>
+
+  <h2>CV</h2>
+  <p><a href="#">Download CV (PDF)</a></p>
+
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:kemingwu668@gmail.com">kemingwu668@gmail.com</a></p>
+</body>
+</html>
