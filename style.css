@@ -46,7 +46,7 @@ body {
   position: relative;
   min-height: 420px;
   width: 100%;
-  background-image: url("index header photo Ye Shanghai.jpg");
+  background-image: url("assets/index header photo Ye Shanghai.jpg");
   background-size: cover;
   background-position: center center;
   display: flex;
